@@ -1,52 +1,12 @@
 const playlist = [{
     name: 'earlyMorning',
-    times: [0, 1, 2, 3, 4, 5],
+    times: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     songs:
         [
-            "www/au/burger.mp3"
+            "www/au/burger.mp3",
+            "www/au/smw.mp3"
     ]
 },
-{
-    name: 'morning',
-    times: [6, 7, 8, 9, 10, 11],
-    songs:
-    [
-            "www/au/burger.mp3"
-    ]
-},
-{
-    name: 'primetime',
-    times: [20, 21],
-    songs:
-        [
-            "www/au/burger.mp3"
-
-    ]
-},
-{
-    name: 'daytime',
-    times: [12, 13, 14, 15, 16, 17],
-    songs:
-        [
-            "www/au/burger.mp3"
-    ]
-},
-{
-    name: 'sunset',
-    times: [18, 19],
-    songs:
-        [
-            "www/au/burger.mp3"
-    ]
-},
-{
-    name: 'nightclub',
-    times: [22, 23],
-    songs:
-        [
-            "www/au/burger.mp3"
-    ]
-}
 ]
 
 let nowPlaying = null;
