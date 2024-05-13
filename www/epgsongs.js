@@ -4,7 +4,9 @@ const playlist = [{
     songs:
         [
             "www/au/burger.mp3",
-            "www/au/smw.mp3"
+            "www/au/smw.mp3",
+            "www/au/gs.mp3",
+            "www/au/t.m4a"
     ]
 },
 ]
